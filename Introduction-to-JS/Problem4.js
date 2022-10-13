@@ -1,0 +1,16 @@
+var name=("Md Naiyer Ajam");
+var school_name=("Masai School");
+var grade=("A");
+var section=("fp08_256");
+var roll_no=("256");
+var coding_marks=("✔ 60");
+var dsa_marks=("✘ 40");
+var english_marks=("❤ 70");
+console.log("          Report Card");
+console.log("School Name     :",school_name);
+console.log("Grade           :",grade);
+console.log("Section         :",section);
+console.log("Roll No         :",roll_no);
+console.log("Coding Marks    :",coding_marks);
+console.log("DSA Marks       :",dsa_marks);
+console.log("English Marks   :",english_marks);
